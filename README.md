@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Employee-Managment">Employee Managment</a></li>
-    <li><a href="#tech/framework-used">Tech/Framework used</a></li>
+    <li><a href="#techframework-used">Tech/Framework used</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
@@ -30,4 +30,4 @@ In this project is implement a lot feature like:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Credits
-I built and learned this web application from [Kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q) on YouTube. especial thanks from this channel and great teacher venkat
+I built and learned this web application from [Kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q) on YouTube. especial thanks for this channel and great teacher venkat.
