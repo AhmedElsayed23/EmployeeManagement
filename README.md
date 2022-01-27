@@ -2,7 +2,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Employee-Managment">Employee Managment</a></li>
+    <li><a href="#Employee-Managment">Employee Management</a></li>
     <li><a href="#techframework-used">Tech/Framework used</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#credits">Credits</a></li>
@@ -10,7 +10,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## Employee Managment
+## Employee Management
 Web application for employee managment that aim to learning ASP.NET Core. introduce basic, intermediate and advanced ASP.NET core concepts that help to build real-world enterprise class data driven web applications.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
